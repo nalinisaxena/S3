@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SqliteC</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">Add</string>
+    <string name="save_text">Save</string>
+    <string name="title_activity_data_list">DataListActivity</string>
+    <string name="title_activity_search_contact">SearchContactActivity</string>
+    <string name="title_activity_update_contact">UpdateContactActivity</string>
+    <string name="ser_text">Search</string>
+    <string name="dei_text">Delete</string>
+    <string name="mb_text">Mobile Here</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_salesman">Salesman</string>
+    <string name="t_text">Temporary Address</string>
+
+    <string name="user_text">UserName</string>
+    <string name="usere_text">E-mail Address</string>
+    <string name="userm_text">Mobile No</string>
+    <string name="userp_text">Permanent Address</string>
+    <string name="usert_text">Temporary Address</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
