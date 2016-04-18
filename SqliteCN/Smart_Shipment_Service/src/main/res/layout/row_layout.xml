@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="#0ff9c2">
+    
+    
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_name"
+        android:text="Name"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_mob"
+        android:text="Mobile no"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_email"
+        android:text="Email_Id"
+        android:gravity="center"/>
+
+
+
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_paddress"
+        android:text="PermanentAddress"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_taddress"
+        android:text="TemporaryAddress"
+        android:gravity="center"/>
+
+
+
+
+
+
+</LinearLayout>

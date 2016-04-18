@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D6:9D:04:F4:E7:B6:4B:46:20:DC:50:99:96:DE:C4:37:81:36:7A:B9%3Bcom.example.nalini.sqlitec
+
+    You can also add your credentials to an existing key, using this line:
+    D6:9D:04:F4:E7:B6:4B:46:20:DC:50:99:96:DE:C4:37:81:36:7A:B9;com.example.nalini.sqlitec
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false"> AIzaSyD1eG-vD6o1o6bqSCamRszwgAG21ih4TpI </string>
+</resources>
